@@ -21,7 +21,7 @@
     <system:String x:Key="Logs">Registri</system:String>
     <system:String x:Key="AllLogs">Tutti i registri</system:String>
     <system:String x:Key="RamLogs">Registri RAM</system:String>
-    <system:String x:Key="ErrorLogs">Log degli errori</system:String>
+    <system:String x:Key="ErrorLogs">Registri errori</system:String>
     <system:String x:Key="ProcessLogs">Registri elaborazione</system:String>
     <system:String x:Key="ApplicationLogs">Registri applicazione</system:String>
     <system:String x:Key="RamMenu">RAM</system:String>
@@ -43,13 +43,13 @@
     <system:String x:Key="HomePage">Sito web programma</system:String>
     <system:String x:Key="License">Licenza</system:String>
     <system:String x:Key="Donate">Dona</system:String>
-    <system:String x:Key="About">Info sul programma</system:String>
+    <system:String x:Key="About">Info programma</system:String>
 
     <!--MainWindow-->
     <system:String x:Key="TotalPhysicalMemory">Memoria fisica totale:</system:String>
     <system:String x:Key="UsedPhysicalMemory">Memoria fisica usata:</system:String>
-    <system:String x:Key="ClearWorkingSets">Azzerra set lavoro</system:String>
-    <system:String x:Key="ClearFileSystemCache">Svuota cache file system</system:String>
+    <system:String x:Key="ClearWorkingSets">Azzera set lavoro</system:String>
+    <system:String x:Key="ClearFileSystemCache">Svuota cache filesystem</system:String>
     <system:String x:Key="AdministrativeRightsWarning">MemPlus potrebbe non funzionare correttamente senza i diritti di amministratore!</system:String>
     <system:String x:Key="GaugeRamUsage">Uso RAM (%)</system:String>
     <system:String x:Key="RamUsageIncreased">Sembra che l'uso della RAM sia aumentato di % MB!</system:String>
@@ -104,7 +104,7 @@
     <system:String x:Key="Minutes">minuti</system:String>
     <system:String x:Key="Hours">ore</system:String>
     <system:String x:Key="RamOptimizer">Ottimizzazione RAM</system:String>
-    <system:String x:Key="OptimizeWhenExceeds">Ottimizza quando ececde uso RAM</system:String>
+    <system:String x:Key="OptimizeWhenExceeds">Ottimizza quando eccede uso RAM</system:String>
     <system:String x:Key="OptimizeAfter">Ottimizza dopo</system:String>
     <system:String x:Key="Options">Opzioni</system:String>
     <system:String x:Key="ClearMemoryOnStartup">Svuota memoria ad avvio applicazione</system:String>
@@ -136,7 +136,7 @@
 
     <system:String x:Key="LogSettings">Registrazione</system:String>
     <system:String x:Key="LoggingEnabled">Registrazione abilitata</system:String>
-    <system:String x:Key="AutoClearLogs">Cancella automaticamente i log dalla memoria ogni</system:String>
+    <system:String x:Key="AutoClearLogs">Cancella automaticamente registri ogni</system:String>
     <system:String x:Key="LogFile">Salva automaticamente i registri nel file</system:String>
     <system:String x:Key="LogFilePath">Percorso del file di registro:</system:String>
 
